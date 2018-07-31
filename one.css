@@ -1,0 +1,26 @@
+<style type='text/css'>
+
+	.main-wrapper { width:70%; float:left; }
+	
+	@media screen and (max-width:786px){
+		.main-wrapper {
+			float: none;
+			width: 100%;
+    	}
+
+  	}
+	.post.hentry {
+    	padding: 0 15px;
+    	overflow: hidden;
+	}
+	.post-body {
+    	font-weight: 300;
+    	line-height: 1.95;
+    	margin: 0 0 30px;
+	}
+.header-wrapper &gt; div {
+    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 35px;
+}
+
+</style>
